@@ -94,14 +94,13 @@ This project provides a unique and efficient approach to solving common challeng
 
 ## Credits
 
-- **Arsh Jaswal** (230205)
 - Tools and libraries used: Ollama's Llama 3.2, CodeBERT, FAISS, LangChain.
 
 ---
 
 ## Contact
 
-For query or feedback, please reach out to arshj23@iitk.ac.in.
+For query or feedback, please reach out to parasks22@iitk.ac.in.
 
 ---
 
