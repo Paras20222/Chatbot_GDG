@@ -63,6 +63,9 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) system designed
 
 ---
 
+## Screenshot 
+![image alt](https://github.com/Paras20222/Chatbot_GDG/blob/main/Chatbot_GDG_Assignment_2/model.png)
+---
 ## Overview
 
 This project provides a unique and efficient approach to solving common challenges faced in competitive programming by leveraging advanced AI technologies. Here are some reasons why this project stands out:
