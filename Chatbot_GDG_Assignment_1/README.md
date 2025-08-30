@@ -47,8 +47,5 @@ To run the scraper, you'll need Python 3 and the following dependencies:
 - `selenium`
 - `re` (for regular expressions)
 
-Install the required libraries using:
-
-```bash
 pip install -r requirements.txt
 
